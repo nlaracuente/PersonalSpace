@@ -1,11 +1,11 @@
 ![alt text][gameplay]
 
 # Personal Space
-Is our entry for the [Ludum Dare 42 Game Jam](https://ldjam.com/events/ludum-dare/42/personal-space-3) where the theme was about "GENRE without MECHANIC."\
+Is our entry for the [Ludum Dare 42 Game Jam](https://ldjam.com/events/ludum-dare/42/personal-space-3) where the theme was about "Running out of Space."\
 To protect the assets created by my fellow team members, I have only included the scripts used to create this game.
 
 ## Description
-Personal Space is all about causing your enemies to Run out of Space to defeat them by making them fall into space.
+Personal Space is all about causing your enemies to "Run out of Space" to defeat them and sending them into space.
 
 ## Play
 - You can [Click Here](https://prodigalson.itch.io/personal-space) to play 
